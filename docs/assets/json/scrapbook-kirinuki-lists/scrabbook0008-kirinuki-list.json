@@ -1,0 +1,610 @@
+{
+	"kirinukiList": [
+		{
+			"kirinukiId": "sb0008-000",
+			"figureNo": "01",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-000.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-001",
+			"figureNo": "01",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-001.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-001.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-002",
+			"figureNo": "02",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-002.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-002.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-003",
+			"figureNo": "03",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-003.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-003.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-004",
+			"figureNo": "04",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-004.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-004.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-005",
+			"figureNo": "05",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-005.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-005.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-006",
+			"figureNo": "06",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-006.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-006.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-007",
+			"figureNo": "07",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-007.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-007.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-008",
+			"figureNo": "08",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-008.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-008.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-009",
+			"figureNo": "09",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-009.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-009.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-010",
+			"figureNo": "10",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-010.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-010.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-011",
+			"figureNo": "11",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-011.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-011.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-012",
+			"figureNo": "12",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-012.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-012.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-013",
+			"figureNo": "13",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-013.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-013.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-014",
+			"figureNo": "14",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-014.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-014.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-015",
+			"figureNo": "15",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-015.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-015.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-016",
+			"figureNo": "16",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-016.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-016.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-017",
+			"figureNo": "17",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-017.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-017.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-018",
+			"figureNo": "18",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-018.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-018.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-019",
+			"figureNo": "19",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-019.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-019.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-020",
+			"figureNo": "20",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-020.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-020.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-021",
+			"figureNo": "21",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-021.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-021.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-022",
+			"figureNo": "22",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-022.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-022.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-023",
+			"figureNo": "23",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-023.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-023.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-024",
+			"figureNo": "24",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-024.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-024.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-025",
+			"figureNo": "25",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-025.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-025.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-026",
+			"figureNo": "26",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-026.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-026.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-027",
+			"figureNo": "27",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-027.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-027.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-028",
+			"figureNo": "28",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-028.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-028.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-029",
+			"figureNo": "29",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-029.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-029.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-030",
+			"figureNo": "30",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-030.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-030.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-031",
+			"figureNo": "31",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-031.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-031.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-032",
+			"figureNo": "32",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-032.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-032.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		},
+		{
+			"kirinukiId": "sb0008-033",
+			"figureNo": "33",
+			"kirinukiTitle": "",
+			"kirinukiDescription": "",
+			"smallImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-033.jpg",
+			"smallImageAlt": "",
+			"smallImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			},
+			"enlargedImageURL": "https://wo8timespace175zero2.github.io/kgw-rsrc/assets/scrapbooks_a/scrapbook0008/sb0008-033.jpg",
+			"enlargedImageAlt": "",
+			"enlargedImageStyle": {
+				"height": "100%",
+				"width": "100%"
+			}
+		}
+	]
+}
