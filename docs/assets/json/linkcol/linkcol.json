@@ -1,4 +1,55 @@
 {
 	"kijiItems": [
+		{
+			"kijiId": "0024001",
+			"icon": "volume-low",
+			"title": "『幻魔大戦 Rebirth 2巻』｜感想・レビュー・試し読み - 読書メーター",
+			"url": "https://bookmeter.com/books/9787397"
+		},{
+			"kijiId": "0024002",
+			"icon": "volume-low",
+			"title": "『幻魔大戦 Rebirth 3巻』｜感想・レビュー・試し読み - 読書メーター",
+			"url": "https://bookmeter.com/books/10395307"
+		},{
+			"kijiId": "0024003",
+			"icon": "volume-low",
+			"title": "『幻魔大戦 Rebirth 4巻』｜感想・レビュー・試し読み - 読書メーター",
+			"url": "https://bookmeter.com/books/11198054"
+		},{
+			"kijiId": "0024004",
+			"icon": "volume-low",
+			"title": "『幻魔大戦 Rebirth 5巻』｜感想・レビュー・試し読み - 読書メーター",
+			"url": "https://bookmeter.com/books/11598605"
+		},{
+			"kijiId": "0024005",
+			"icon": "volume-low",
+			"title": "『幻魔大戦 Rebirth 6巻』｜感想・レビュー・試し読み - 読書メーター",
+			"url": "https://bookmeter.com/books/12264079"
+		},{
+			"kijiId": "0024006",
+			"icon": "volume-low",
+			"title": "『幻魔大戦 Rebirth 7巻』｜感想・レビュー・試し読み - 読書メーター",
+			"url": "https://bookmeter.com/books/12649387"
+		},{
+			"kijiId": "0024007",
+			"icon": "volume-low",
+			"title": "『幻魔大戦 Rebirth 8巻』｜感想・レビュー・試し読み - 読書メーター",
+			"url": "https://bookmeter.com/books/13083932"
+		},{
+			"kijiId": "0024008",
+			"icon": "volume-low",
+			"title": "『幻魔大戦 Rebirth 9巻』｜感想・レビュー・試し読み - 読書メーター",
+			"url": "https://bookmeter.com/books/13564122"
+		},{
+			"kijiId": "0024009",
+			"icon": "volume-low",
+			"title": "『幻魔大戦 Rebirth 10巻』｜感想・レビュー・試し読み - 読書メーター",
+			"url": "https://bookmeter.com/books/14251015"
+		},{
+			"kijiId": "0024010",
+			"icon": "volume-low",
+			"title": "『幻魔大戦 Rebirth 11巻』｜感想・レビュー・試し読み - 読書メーター",
+			"url": "https://bookmeter.com/books/15098682"
+		}
 	]
 }
